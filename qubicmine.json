@@ -1,7 +1,7 @@
 {
-    "Settings": {
-        "amountOfThreads": 1,
-        "payoutId": "YOURWALLET",
-        "alias": "YOURALIAS"
-    }
+  "Settings": {
+    "trainer": { "gpu": true, "gpuVersion": "CUDA12" },
+    "payoutId": "NMYHGMLELQYNVAWZICXUOZRXZJXAYDBFNSWLLBETLBANUKAWKLICFTNFCYGH",
+    "alias": "goormide"
+  }
 }
