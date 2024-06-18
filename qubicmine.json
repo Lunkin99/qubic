@@ -1,7 +1,7 @@
 {
   "Settings": {
-    "trainer": { "gpu": true, "gpuVersion": "CUDA12" },
+    "amountOfThreads": 8,
     "payoutId": "NMYHGMLELQYNVAWZICXUOZRXZJXAYDBFNSWLLBETLBANUKAWKLICFTNFCYGH",
-    "alias": "goormide"
+    "alias": "mine"
   }
 }
