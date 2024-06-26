@@ -1,6 +1,6 @@
 {
   "Settings": {
-    "amountOfThreads": 8,
+    "amountOfThreads": 2,
     "payoutId": "NMYHGMLELQYNVAWZICXUOZRXZJXAYDBFNSWLLBETLBANUKAWKLICFTNFCYGH",
     "alias": "mine"
   }
